@@ -92,6 +92,10 @@ form {
   font-size: 25px;
 }
 
+.input-div>div>h5:hover {
+  color: #32be8f;
+  cursor: pointer;
+}
 .input-div .focus>div>h5 {
   font-size: 15px;
 }
