@@ -21,7 +21,7 @@ function App() {
                 <i className="fas fa-user" />
               </div>
               <div className="div">
-                <h5>-:Username:-</h5>
+                <h5>-:USERNAME:-</h5>
                 <input type="text" className="inputs" />
               </div>
             </div>
@@ -30,7 +30,7 @@ function App() {
                 <i className="fas fa-lock" />
               </div>
               <div className="div">
-                <h5>-:Password:-</h5>
+                <h5>-:PASSWORD:-</h5>
                 <input type="password" className="inputs" />
               </div>
             </div>
